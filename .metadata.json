@@ -1,10 +1,6 @@
 [
   {
-    "package": "cancensus",
-    "oncran": true
-  },
-  {
-    "package": "cansim",
+    "package": "VancouvR",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
+    "package": "cansim",
+    "oncran": true
+  },
+  {
     "package": "tongfen",
     "oncran": true
   },
   {
-    "package": "VancouvR",
+    "package": "cancensus",
     "oncran": true
   }
 ]
