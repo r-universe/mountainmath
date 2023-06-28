@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cancensus"]
 	path = cancensus
 	url = https://github.com/mountainmath/cancensus
-	shallow = true
-	registered = true
 [submodule "cansim"]
 	path = cansim
 	url = https://github.com/mountainmath/cansim
-	shallow = true
-	registered = true
 [submodule "cmhc"]
 	path = cmhc
 	url = https://github.com/mountainmath/cmhc
-	shallow = true
-	registered = true
 [submodule "tongfen"]
 	path = tongfen
 	url = https://github.com/mountainmath/tongfen
-	shallow = true
-	registered = true
 [submodule "VancouvR"]
 	path = VancouvR
 	url = https://github.com/mountainmath/vancouvr
-	shallow = true
-	registered = true
