@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "VancouvR"]
+	path = VancouvR
+	url = https://github.com/mountainmath/vancouvr
 [submodule "cancensus"]
 	path = cancensus
 	url = https://github.com/mountainmath/cancensus
@@ -14,6 +17,3 @@
 [submodule "tongfen"]
 	path = tongfen
 	url = https://github.com/mountainmath/tongfen
-[submodule "VancouvR"]
-	path = VancouvR
-	url = https://github.com/mountainmath/vancouvr
