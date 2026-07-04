@@ -8,6 +8,9 @@
 [submodule "cancensus"]
 	path = cancensus
 	url = https://github.com/mountainmath/cancensus
+[submodule "canpumf"]
+	path = canpumf
+	url = https://github.com/mountainmath/canpumf
 [submodule "cansim"]
 	path = cansim
 	url = https://github.com/mountainmath/cansim
