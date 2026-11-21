@@ -17,6 +17,9 @@
 [submodule "cmhc"]
 	path = cmhc
 	url = https://github.com/mountainmath/cmhc
+[submodule "safeconduct"]
+	path = safeconduct
+	url = https://github.com/mountainmath/safeconduct
 [submodule "tongfen"]
 	path = tongfen
 	url = https://github.com/mountainmath/tongfen
